@@ -1,0 +1,14 @@
+col-sm-6: means that from small screens to above: element takes 6 cols of 12 grid cols (view 2 elements in layout).
+col-md-4: means that from medium screens to above: element takes 4 cols of 12 grid cols (view 3 elements in layout).
+col-lg-3: means that from large screens to above: element takes 3 cols of 12 grid cols (view 4 elements in layout).
+
+- if you typed only col-number: that means that this element will take this number of cols in all conditions unless there's something comes up like you specify in small screens col-sm-6 for example.
+
+mt-sm-3: means that from small screens to above: element will have a margin-top-3.
+m-md-2: means that from small screens to above: element will have a margin-3.
+
+>> And you can edit on them anyway you want with any property (padding, margin, colors, ...).
+>> Search col-md in the project and inspect to learn more.
+NOTE: If the screen didn't take 2 elements in the screen then it'll organize them automaticlly.
+------------------------------------------------------------------------
+text-md-start: makes the text be on the left beginnig from the medium screens.
