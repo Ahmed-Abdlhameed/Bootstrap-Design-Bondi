@@ -40,7 +40,7 @@ The **Media** folder contains supplementary resources and notes for more topics:
 
 ## Contributions
 
-Feel free to fork the repository and contribute by adding more features to the template. Pull requests are welcomed!
+Feel free to fork the repository and contribute by adding more features to the template or improving the existing ones. Pull requests are welcomed!
 
 ---
 
