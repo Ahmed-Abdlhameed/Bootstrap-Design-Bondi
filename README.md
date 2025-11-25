@@ -4,7 +4,7 @@ This repository contains the Bondi design which is a sleek and fully responsive 
 
 ---
 
-## Table Of Contents
+## Table of Contents
 
 1. [Template Files](#template-Files)
 2. [Media](#media)
@@ -31,7 +31,7 @@ The **Media** folder contains supplementary resources and notes for more topics:
 
 ---
 
-## How To Use
+## How to Use
 
 1. Navigate to through the template directory to review its files.
 3. You can simply view the live preview of the template by visiting the link in the README file.
