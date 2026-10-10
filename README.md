@@ -17,7 +17,7 @@ This repository contains the Bondi design which is a sleek and fully responsive 
 ## Template Files
 
   - **[Explore Template Files](/)**
-  - **[Live Preview](https://a-bootstrap-design-bondi.netlify.app/)**
+  - **[Live Preview](https://bootstrap-bondi.ahmedabdelhameed.workers.dev/)**
 
 ---
 
