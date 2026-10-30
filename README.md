@@ -8,7 +8,7 @@ This repository contains the Bondi design which is a sleek and fully responsive 
 
 1. [Template Files](#template-Files)
 2. [Media](#media)
-3. [Getting Started (How to Use)](#how-To-Use)
+3. [Getting Started (How to Use)](#getting-started-how-To-Use)
 4. [Contributions (Adding Your Own Features)](#contributions-adding-your-own-features)
 5. [License & Author](#license--author)
 
